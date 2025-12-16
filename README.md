@@ -21,7 +21,7 @@ CN_Air84。
 
 开发团队只有我一个人。
 
-请发邮件到air84_@outlook.com，我会尽快回复。||Please sent an email to air84_@outlook.com ,I'll reply you asap.
+请发邮件到air84_@outlook.com，我会尽快回复。|| Please sent an email to air84_@outlook.com ,I'll reply you asap.
 
 团队内部成员压力很小，与此同时也不会有报酬，因为我给不起。 😭
 
@@ -34,4 +34,4 @@ CN_Air84。
 + Github
 + E-Mail:air84_@outlook.com
 
-# 开源精神万岁。Long live Open-Source Spirit.
+# 开源精神万岁 || Long live Open-Source Spirit
