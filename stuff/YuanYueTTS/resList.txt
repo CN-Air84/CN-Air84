@@ -1,2 +1,2 @@
-[YuanyueSEI]@智慧教育平台导入模式扩展包@{https://gh-proxy.org/https://github.com/CN-Air84/CN-Air84/releases/download/YuanyueSEI/YuanyueSEI.7z}<UnzipTo SEI222/>
+[YuanyueSEI]@智慧教育平台导入模式扩展包@{https://gh-proxy.org/https://github.com/CN-Air84/CN-Air84/releases/download/YuanyueSEI/YuanyueSEI.7z}<UnzipTo SEI/>
 [VoiceList]@音色列表@{https://gh-proxy.org/https://github.com/CN-Air84/CN-Air84/releases/download/YuanyueTTSData/voiceList.7z}<UnzipTo cache/>
